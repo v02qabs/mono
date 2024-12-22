@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>PC技術・ドキュメント</title>
+	<link rel="stylesheet" href="layout.css" type="text/css">
+</head>
+
+<body>
+
+<div class="wrapper">
+<header class="header">
+	<nav class="g-nav-03">
+		<ul class="clearfix">
+		<li class="home"><a href="https://hirofumi090.chobi.net"><span></span>HOME</a></li>
+			<li class="flower"><a href=""><span></span>言語</a>
+				<ul class="second-level">
+					<li><a href="https://hirofumi090.chobi.net/clang/index.html">clang</a></li>
+					<li><a href="https://hirofumi090.chobi.net/java/index.html">java</a></li>
+					<li><a href="https://hirofumi090.chobi.net/myapp/index.html">私の作ったアプリ</a></li>
+					<li><a href="https://hirofumi090.chobi.net/android/index.html">Android開発</a></li>					</ul>
+			</li>
+			<li><a href="https://hirofumi090.chobi.net/ruby/index.html">ruby言語</a></li>
+			
+			<li class="gift"><a href="https://hirofumi090.chobi.net/note/index.php"><span></span>hirotake のノート</a>
+			</li>
+			<li class="shop"><a href="#"><span></span>お店情報</a></li>
+			<li class="contact"><a href="#"><span></span>お問い合せ</a></li>
+			<li class="shop"><a href="https://hirofumi090.chobi.net/blog/index.html"><span></span>blog</a></li>
+	</nav>
+</header>
+
+
+<h1>PCスキル大辞典</h1>
+
+ようこそ。
+ここでは、github.com と連携しながら、
+プログラムの解説をしていくサイトを作ってます。
+
+<p><a href="https://hirofumi090.chobi.net/java/index.html">・Java言語</a></p>
+
+<p><a href="https://hirofumi090.chobi.net/android/index.html">Android 開発</a></p>
+
+<p><a href="https://hirofumi090.chobi.net/ruby/index.html">ruby言語</a></p>
+<p><a href="https://hirofumi090.chobi.net/clang/index.html">C言語解説</a></p>
+<p><a href="https://hirofumi090.chobi.net/puppy-linux-S15/index.html">puppy-linux-S15</a></p>
+
+</body>
+</html>
