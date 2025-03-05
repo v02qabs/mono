@@ -1,0 +1,1 @@
+set path=c:\Program Files\Mono\bin;%path%;
