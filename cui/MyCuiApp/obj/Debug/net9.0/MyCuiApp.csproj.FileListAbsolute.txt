@@ -1,0 +1,15 @@
+z:\home\user\git\mono\cui\MyCuiApp\bin\Debug\net9.0\MyCuiApp.exe
+z:\home\user\git\mono\cui\MyCuiApp\bin\Debug\net9.0\MyCuiApp.deps.json
+z:\home\user\git\mono\cui\MyCuiApp\bin\Debug\net9.0\MyCuiApp.runtimeconfig.json
+z:\home\user\git\mono\cui\MyCuiApp\bin\Debug\net9.0\MyCuiApp.dll
+z:\home\user\git\mono\cui\MyCuiApp\bin\Debug\net9.0\MyCuiApp.pdb
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.GeneratedMSBuildEditorConfig.editorconfig
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.AssemblyInfoInputs.cache
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.AssemblyInfo.cs
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.csproj.CoreCompileInputs.cache
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.sourcelink.json
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.dll
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\refint\MyCuiApp.dll
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.pdb
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\MyCuiApp.genruntimeconfig.cache
+z:\home\user\git\mono\cui\MyCuiApp\obj\Debug\net9.0\ref\MyCuiApp.dll
