@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mshmRljkgII=",
+  "dgSpecHash": "Q8WZ6VtfYYE=",
   "success": true,
-  "projectFilePath": "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\users\\user\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.9\\microsoft.netcore.app.runtime.win-x86.9.0.9.nupkg.sha512",
+    "C:\\users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.9.nupkg.sha512",
+    "C:\\users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.9\\microsoft.aspnetcore.app.runtime.win-x86.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj": {}
+    "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj": {}
   },
   "projects": {
-    "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj": {
+    "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
+        "projectUniqueName": "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
         "projectName": "MyCuiApp",
-        "projectPath": "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
+        "projectPath": "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\MyCuiApp.csproj",
         "packagesPath": "C:\\users\\user\\.nuget\\packages\\",
-        "outputPath": "z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\obj\\",
+        "outputPath": "Z:\\home\\user\\git\\mono\\cui\\MyCuiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,12 +54,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[9.0.9, 9.0.9]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
         }
       }
     }
