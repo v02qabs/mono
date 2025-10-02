@@ -1,0 +1,1 @@
+copy z:\home\user\mpg123-1.32.10-x86\*.h .

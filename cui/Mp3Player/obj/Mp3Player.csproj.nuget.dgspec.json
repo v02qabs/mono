@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj": {}
+  },
+  "projects": {
+    "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+        "projectName": "Mp3Player",
+        "projectPath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+        "packagesPath": "C:\\users\\user\\.nuget\\packages\\",
+        "outputPath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "NetCoreAudio": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

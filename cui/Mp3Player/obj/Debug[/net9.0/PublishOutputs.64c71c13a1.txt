@@ -1,0 +1,6 @@
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\Mp3Player.exe
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\Mp3Player.dll
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\Mp3Player.deps.json
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\Mp3Player.runtimeconfig.json
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\Mp3Player.pdb
+Z:\home\user\git\mono\cui\Mp3Player\bin\Debug[\net9.0\publish\NetCoreAudio.dll

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "sF/yTGtt9AE=",
+  "success": true,
+  "projectFilePath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\users\\user\\.nuget\\packages\\netcoreaudio\\2.0.0\\netcoreaudio.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Mp3Player は NetCoreAudio (>= 1.9.0) に依存しますが、NetCoreAudio 1.9.0 が見つかりませんでした。代わりに NetCoreAudio 2.0.0 が解決されました。",
+      "projectPath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+      "warningLevel": 1,
+      "filePath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+      "libraryId": "NetCoreAudio",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "NetCoreAudio/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/NetCoreAudio.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/NetCoreAudio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreAudio/2.0.0": {
+      "sha512": "uDZcOG1pHcfxoKr9LrYvh+zHf+3JlL3tWly+o4mICHm5s9INBzcJVWiO2hh17RPyZQ0Fvqiw4qsa396l77JM0Q==",
+      "type": "package",
+      "path": "netcoreaudio/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.jpg",
+        "lib/netstandard2.1/NetCoreAudio.dll",
+        "netcoreaudio.2.0.0.nupkg.sha512",
+        "netcoreaudio.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "NetCoreAudio >= 1.9.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+      "projectName": "Mp3Player",
+      "projectPath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\Mp3Player.csproj",
+      "packagesPath": "C:\\users\\user\\.nuget\\packages\\",
+      "outputPath": "Z:\\home\\user\\git\\mono\\cui\\Mp3Player\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "NetCoreAudio": {
+            "target": "Package",
+            "version": "[1.9.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Mp3Player は NetCoreAudio (>= 1.9.0) に依存しますが、NetCoreAudio 1.9.0 が見つかりませんでした。代わりに NetCoreAudio 2.0.0 が解決されました。",
+      "libraryId": "NetCoreAudio",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
